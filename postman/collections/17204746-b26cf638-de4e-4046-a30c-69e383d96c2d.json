@@ -1,0 +1,114 @@
+{
+	"info": {
+		"_postman_id": "17204746-b26cf638-de4e-4046-a30c-69e383d96c2d",
+		"name": "AUTH",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "SIGNUP",
+			"id": "17204746-6da4fd0e-ad2e-4d2a-8555-b10efe71fe4c",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VERIFY EMAIL",
+			"id": "17204746-d6e7d5c1-ac50-48e4-b603-a6aeab53c921",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "LOGOUT",
+			"id": "17204746-e7bb26f3-545c-4c54-82cb-fae200074e7d",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "LOGIN",
+			"id": "17204746-3868f399-b163-4d71-ad55-831ed23676b1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "FORGOT PASSWORD REQUEST",
+			"id": "17204746-c18c2f90-aed3-455b-b51a-8b2c2bdaaa52",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UPDATE PASSWORD",
+			"id": "17204746-5217d9ad-2aee-4709-a615-748ce159d102",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CHECK AUTH",
+			"id": "17204746-5a97e909-a411-4d46-b1aa-c144ca6076b8",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
