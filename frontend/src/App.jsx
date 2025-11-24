@@ -7,6 +7,10 @@ import LoginPage from './pages/LoginPage';
 import SignUpPage from './pages/SignUpPage';
 import EmailVerificationPage from './pages/EmailVerificationPage';
 
+import { Toaster } from "react-hot-toast";
+import { useAuthStore } from "./store/authStore";
+import { useEffect } from "react";
+
 function App() {
 
 	return (
@@ -43,6 +47,7 @@ function App() {
 					}
 				/>
 			</Routes>
+			<Toaster />
 		</div>
 	)
 }
